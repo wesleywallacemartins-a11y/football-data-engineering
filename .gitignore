@@ -1,0 +1,11 @@
+# Arquivos compilados pelo Maven
+target/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos do sistema Windows
+Thumbs.db
+
+# Arquivos de configuração sensíveis (API keys)
+config.properties
